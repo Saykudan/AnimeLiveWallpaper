@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "mediaURL": "https://github.com/Saykudan/AnimeLiveWallpaper/blob/main/LiveWallpapers/giftest.gif?raw=true",
+        "isVideo": false
+    },
+    {
+        "id": "2",
+        "mediaURL": "https://github.com/Saykudan/AnimeLiveWallpaper/raw/refs/heads/main/LiveWallpapers/videotest.mp4",
+        "isVideo": true
+    }
+]
