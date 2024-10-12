@@ -5,21 +5,27 @@
       "name": "Jujutsu Kaiser",
       "description": "Recently Added",
       "sectionGif": "https://giffiles.alphacoders.com/219/219539.gif",
-      "order": 1
+      "order": 1,
+      "tag": "New",
+      "tagColor": "#FF5733"
     },
     {
       "id": "2",
       "name": "Dragon Ball DBZ",
       "description": "Get powerful DBZ wallpapers.",
       "sectionGif": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJmkJD-7STCuATggnk86J_DPQhV48ANQIDkJPMdSSuF5RQaR7lAEv25JQqJIFl45euVw&usqp=CAU",
-      "order": 2
+      "order": 2,
+      "tag": "Hot",
+      "tagColor": "#FFC300"
     },
     {
       "id": "3",
       "name": "Naruto",
       "description": "Browse Naruto-themed wallpapers.",
       "sectionGif": "https://i.pinimg.com/originals/6b/4c/53/6b4c53c16384d6e7fb8e8526a13a0913.gif",
-      "order": 3
+      "order": 3,
+      "tag": "Popular",
+      "tagColor": "#28A745"
     }
   ],
   "wallpapers": [
