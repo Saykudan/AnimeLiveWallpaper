@@ -1,12 +1,54 @@
-[
+{
+  "categories": [
     {
-        "id": "1",
-        "mediaURL": "https://raw.githubusercontent.com/Saykudan/AnimeLiveWallpaper/main/LiveWallpapers/giftest.gif",
-        "isVideo": false
+      "id": "1",
+      "name": "Jujutsu Kaiser",
+      "sectionGif": "https://gifs.alphacoders.com/gifs/view/219539",
+      "order": 1
     },
     {
-        "id": "2",
-        "mediaURL": "https://raw.githubusercontent.com/Saykudan/AnimeLiveWallpaper/main/LiveWallpapers/videotest.mp4",
-        "isVideo": true
+      "id": "2",
+      "name": "DBZ",
+      "sectionGif": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJmkJD-7STCuATggnk86J_DPQhV48ANQIDkJPMdSSuF5RQaR7lAEv25JQqJIFl45euVw&usqp=CAU",
+      "order": 2
+    },
+    {
+      "id": "3",
+      "name": "Naruto",
+      "sectionGif": "https://www.pinterest.com/pin/811210951618083681/",
+      "order": 3
     }
-]
+  ],
+  "wallpapers": [
+    { 
+      "id": "1", 
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu1.mp4?alt=media&token=add4e153-3e7d-43d0-8e50-f5890d6c53f7", 
+      "type": "video",
+      "categoryId": "1"
+    },
+    { 
+      "id": "2", 
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu2.mp4?alt=media&token=6f7eb332-0637-421b-a21f-df349b2152f4", 
+      "type": "video",
+      "categoryId": "1"
+    },
+    { 
+      "id": "3", 
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu4.mp4?alt=media&token=ab351053-9864-45a1-a101-ce73d2781956", 
+      "type": "video",
+      "categoryId": "1"
+    },
+    { 
+      "id": "6", 
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F10f215c31cfa8291f6fcfcbb6c0c6c6a.mp4?alt=media&token=fe0f10b8-072e-484a-8d0b-3ae5a0e57873", 
+      "type": "video",
+      "categoryId": "2"
+    },
+    { 
+      "id": "7", 
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4", 
+      "type": "video",
+      "categoryId": "2"
+    }
+  ]
+}
