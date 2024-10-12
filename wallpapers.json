@@ -32,11 +32,13 @@
     {
       "id": "1",
       "name": "Jujutsu Kaiser",
+      "wallpaperIds": ["1", "2", "3"],
       "order": 1
     },
     {
       "id": "2",
       "name": "Dragon Ball DBZ",
+      "wallpaperIds": ["6", "7"],
       "order": 2
     }
   ],
