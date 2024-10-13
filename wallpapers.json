@@ -36,40 +36,77 @@
       "order": 1
     },
     {
+      "id": "newAnimeCategories",
+      "name": "New Anime Categories",
+      "order": 2
+    },
+    {
       "id": "2",
       "name": "Dragon Ball DBZ",
       "wallpaperIds": ["6", "7"],
-      "order": 2
+      "order": 3
+    }
+  ],
+  "newAnimeCategories": [
+    {
+      "id": "4",
+      "name": "Featured Anime",
+      "description": "Top picks this week",
+      "sectionGif": "https://example.com/featured-anime.gif",
+      "order": 1,
+      "tag": "Featured",
+      "tagColor": "#8E44AD",
+      "wallpaperIds": []
+    },
+    {
+      "id": "5",
+      "name": "Trending Now",
+      "description": "Most popular wallpapers",
+      "sectionGif": "https://example.com/trending.gif",
+      "order": 2,
+      "tag": "Hot",
+      "tagColor": "#E74C3C",
+      "wallpaperIds": []
+    },
+    {
+      "id": "6",
+      "name": "Seasonal Anime",
+      "description": "Best of this season",
+      "sectionGif": "https://example.com/seasonal-anime.gif",
+      "order": 3,
+      "tag": "Seasonal",
+      "tagColor": "#27AE60",
+      "wallpaperIds": []
     }
   ],
   "wallpapers": [
-    { 
-      "id": "1", 
-      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu1.mp4?alt=media&token=add4e153-3e7d-43d0-8e50-f5890d6c53f7", 
+    {
+      "id": "1",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu1.mp4?alt=media&token=add4e153-3e7d-43d0-8e50-f5890d6c53f7",
       "type": "video",
       "categoryId": "1"
     },
-    { 
-      "id": "2", 
-      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu2.mp4?alt=media&token=6f7eb332-0637-421b-a21f-df349b2152f4", 
+    {
+      "id": "2",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu2.mp4?alt=media&token=6f7eb332-0637-421b-a21f-df349b2152f4",
       "type": "video",
       "categoryId": "1"
     },
-    { 
-      "id": "3", 
-      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu4.mp4?alt=media&token=ab351053-9864-45a1-a101-ce73d2781956", 
+    {
+      "id": "3",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu4.mp4?alt=media&token=ab351053-9864-45a1-a101-ce73d2781956",
       "type": "video",
       "categoryId": "1"
     },
-    { 
-      "id": "6", 
-      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F10f215c31cfa8291f6fcfcbb6c0c6c6a.mp4?alt=media&token=fe0f10b8-072e-484a-8d0b-3ae5a0e57873", 
+    {
+      "id": "6",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F10f215c31cfa8291f6fcfcbb6c0c6c6a.mp4?alt=media&token=fe0f10b8-072e-484a-8d0b-3ae5a0e57873",
       "type": "video",
       "categoryId": "2"
     },
-    { 
-      "id": "7", 
-      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4", 
+    {
+      "id": "7",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4",
       "type": "video",
       "categoryId": "2"
     }
