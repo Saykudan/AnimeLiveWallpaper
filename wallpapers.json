@@ -28,6 +28,18 @@
       "tagColor": "#28A745"
     }
   ],
+  
+  "newAnimeCategories": [
+    {
+      "id": "4",
+      "name": "Demon Slayer",
+      "description": "Top picks this week",
+      "sectionGif": "https://i.pinimg.com/originals/78/c9/ac/78c9acd081fbae3684d7ece42cbcd15f.gif",
+      "tag": "Featured",
+      "tagColor": "#8E44AD"
+    }
+  ],
+  
   "bodyCategories": [
     {
       "id": "1",
@@ -47,38 +59,7 @@
       "order": 3
     }
   ],
-  "newAnimeCategories": [
-    {
-      "id": "4",
-      "name": "Featured Anime",
-      "description": "Top picks this week",
-      "sectionGif": "https://example.com/featured-anime.gif",
-      "order": 1,
-      "tag": "Featured",
-      "tagColor": "#8E44AD",
-      "wallpaperIds": []
-    },
-    {
-      "id": "5",
-      "name": "Trending Now",
-      "description": "Most popular wallpapers",
-      "sectionGif": "https://example.com/trending.gif",
-      "order": 2,
-      "tag": "Hot",
-      "tagColor": "#E74C3C",
-      "wallpaperIds": []
-    },
-    {
-      "id": "6",
-      "name": "Seasonal Anime",
-      "description": "Best of this season",
-      "sectionGif": "https://example.com/seasonal-anime.gif",
-      "order": 3,
-      "tag": "Seasonal",
-      "tagColor": "#27AE60",
-      "wallpaperIds": []
-    }
-  ],
+  
   "wallpapers": [
     {
       "id": "1",
@@ -108,7 +89,25 @@
       "id": "7",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4",
       "type": "video",
-      "categoryId": "2"
+      "categoryId": "4"
+    },
+    {
+      "id": "8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FDeamon-Slayer%2Fdeamonslayer1.mp4?alt=media&token=297b7252-0ce4-4361-b6b0-428ecc40c67c",
+      "type": "video",
+      "categoryId": "4"
+    },
+    {
+      "id": "9",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FDeamon-Slayer%2Fdeamonslayer2.mp4?alt=media&token=ffc4285d-b5fb-472d-8cfc-c4db1d78347a",
+      "type": "video",
+      "categoryId": "4"
+    },
+    {
+      "id": "10",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4",
+      "type": "video",
+      "categoryId": "4"
     }
   ]
 }
