@@ -52,12 +52,22 @@
       "name": "New Anime Categories",
       "order": 2
     },
+        {
+      "id": "newAnimeCategories",
+      "name": "New Anime Categories",
+      "order": 3
+    },
     {
       "id": "2",
       "name": "Dragon Ball DBZ",
       "wallpaperIds": ["6", "7"],
-      "order": 3
-    }
+      "order": 4
+    },
+        {
+      "id": "newAnimeCategories",
+      "name": "New Anime Categories",
+      "order": 5
+    },
   ],
   
   "wallpapers": [
