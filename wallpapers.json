@@ -26,17 +26,24 @@
       "order": 3,
       "tag": "Popular",
       "tagColor": "#28A745"
-    }
-  ],
-  
-  "newAnimeCategories": [
+    },
     {
       "id": "4",
       "name": "Demon Slayer",
       "description": "Top picks this week",
       "sectionGif": "https://i.pinimg.com/originals/78/c9/ac/78c9acd081fbae3684d7ece42cbcd15f.gif",
+      "order": 4,
       "tag": "Featured",
       "tagColor": "#8E44AD"
+    },
+    {
+      "id": "5",
+      "name": "Jujutsu Kaisen",
+      "description": "Explore Jujutsu Kaisen wallpapers",
+      "sectionGif": "https://example.com/jujutsu-kaisen.gif",
+      "order": 5,
+      "tag": "Trending",
+      "tagColor": "#3498DB"
     }
   ],
   
@@ -44,30 +51,27 @@
     {
       "id": "1",
       "name": "Jujutsu Kaiser",
-      "wallpaperIds": ["1", "2", "3","11"],
+      "wallpaperIds": ["1", "2", "3", "11", "12"],
       "order": 1
-    },
-    {
-      "id": "newAnimeCategories",
-      "name": "New Anime Categories",
-      "order": 2
-    },
-        {
-      "id": "newAnimeCategories",
-      "name": "New Anime Categories",
-      "order": 3
     },
     {
       "id": "2",
       "name": "Dragon Ball DBZ",
       "wallpaperIds": ["6", "7"],
+      "order": 2
+    },
+    {
+      "id": "4",
+      "name": "Demon Slayer",
+      "wallpaperIds": ["8", "9", "10"],
+      "order": 3
+    },
+    {
+      "id": "5",
+      "name": "Jujutsu Kaisen",
+      "wallpaperIds": ["11", "12"],
       "order": 4
-    },
-        {
-      "id": "newAnimeCategories",
-      "name": "New Anime Categories",
-      "order": 5
-    },
+    }
   ],
   
   "wallpapers": [
@@ -75,61 +79,61 @@
       "id": "1",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu1.mp4?alt=media&token=add4e153-3e7d-43d0-8e50-f5890d6c53f7",
       "type": "video",
-      "categoryId": "1"
+      "categoryIds": ["1"]
     },
     {
       "id": "2",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu2.mp4?alt=media&token=6f7eb332-0637-421b-a21f-df349b2152f4",
       "type": "video",
-      "categoryId": "1"
+      "categoryIds": ["1"]
     },
     {
       "id": "3",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fjujutsu4.mp4?alt=media&token=ab351053-9864-45a1-a101-ce73d2781956",
       "type": "video",
-      "categoryId": "1"
+      "categoryIds": ["1"]
     },
     {
       "id": "6",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F10f215c31cfa8291f6fcfcbb6c0c6c6a.mp4?alt=media&token=fe0f10b8-072e-484a-8d0b-3ae5a0e57873",
       "type": "video",
-      "categoryId": "2"
+      "categoryIds": ["2"]
     },
     {
       "id": "7",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4",
       "type": "video",
-      "categoryId": "4"
+      "categoryIds": ["2", "4"]
     },
     {
       "id": "8",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FDeamon-Slayer%2Fdeamonslayer1.mp4?alt=media&token=297b7252-0ce4-4361-b6b0-428ecc40c67c",
       "type": "video",
-      "categoryId": "4"
+      "categoryIds": ["4"]
     },
     {
       "id": "9",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FDeamon-Slayer%2Fdeamonslayer2.mp4?alt=media&token=ffc4285d-b5fb-472d-8cfc-c4db1d78347a",
       "type": "video",
-      "categoryId": "4"
+      "categoryIds": ["4"]
     },
     {
       "id": "10",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4",
       "type": "video",
-      "categoryId": "4"
+      "categoryIds": ["4"]
     },
-     {
+    {
       "id": "11",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F06d3805301fe1a16557c7778c69f1a54.jpg?alt=media&token=80ca9d0b-828f-43b4-be9f-c49950a1015c",
       "type": "image",
-      "categoryIds": ["1", "5"] 
+      "categoryIds": ["1", "5"]
     },
-     {
+    {
       "id": "12",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FHD-wallpaper-gojo-satoru-anime-cool-gojou-itadori-yuji-jujutsu-jujutsu-kaisen-kaisen-manga.jpg?alt=media&token=abfe9b94-a491-46fb-a568-d98db9d4e6e2",
       "type": "image",
-      "categoryIds": ["1", "5"] 
-     }
+      "categoryIds": ["1", "5"]
+    }
   ]
 }
