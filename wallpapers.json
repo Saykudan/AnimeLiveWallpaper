@@ -123,13 +123,13 @@
       "id": "11",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F06d3805301fe1a16557c7778c69f1a54.jpg?alt=media&token=80ca9d0b-828f-43b4-be9f-c49950a1015c",
       "type": "image",
-      "categoryId": "1"
+      "categoryIds": ["1", "5"] 
     },
      {
       "id": "12",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FHD-wallpaper-gojo-satoru-anime-cool-gojou-itadori-yuji-jujutsu-jujutsu-kaisen-kaisen-manga.jpg?alt=media&token=abfe9b94-a491-46fb-a568-d98db9d4e6e2",
       "type": "image",
-      "categoryId": "1"
-    }
+      "categoryIds": ["1", "5"] 
+     }
   ]
 }
