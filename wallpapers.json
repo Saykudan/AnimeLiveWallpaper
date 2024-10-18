@@ -44,7 +44,7 @@
     {
       "id": "1",
       "name": "Jujutsu Kaiser",
-      "wallpaperIds": ["1", "2", "3"],
+      "wallpaperIds": ["1", "2", "3","11"],
       "order": 1
     },
     {
@@ -118,6 +118,12 @@
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F594d61e17b82792ea129d4d9f84afe97.mp4?alt=media&token=1dccb665-ec39-4e70-bb78-292b122d73e4",
       "type": "video",
       "categoryId": "4"
+    },
+     {
+      "id": "11",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F06d3805301fe1a16557c7778c69f1a54.jpg?alt=media&token=80ca9d0b-828f-43b4-be9f-c49950a1015c",
+      "type": "video",
+      "categoryId": "1"
     }
   ]
 }
