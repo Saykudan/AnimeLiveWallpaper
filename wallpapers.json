@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "1",
-      "name": "Jujutsu Kaiser",
+      "name": "Jujutsu Kaisen",
       "description": "Recently Added",
       "sectionGif": "https://giffiles.alphacoders.com/219/219539.gif",
       "order": 1,
@@ -26,54 +26,40 @@
       "order": 3,
       "tag": "Popular",
       "tagColor": "#28A745"
-    },
+    }
+  ],
+
+  "newAnimeCategories": [
     {
       "id": "4",
       "name": "Demon Slayer",
       "description": "Top picks this week",
       "sectionGif": "https://i.pinimg.com/originals/78/c9/ac/78c9acd081fbae3684d7ece42cbcd15f.gif",
-      "order": 4,
       "tag": "Featured",
       "tagColor": "#8E44AD"
-    },
-    {
-      "id": "5",
-      "name": "Jujutsu Kaisen",
-      "description": "Explore Jujutsu Kaisen wallpapers",
-      "sectionGif": "https://example.com/jujutsu-kaisen.gif",
-      "order": 5,
-      "tag": "Trending",
-      "tagColor": "#3498DB"
     }
   ],
-  
+
   "bodyCategories": [
     {
       "id": "1",
-      "name": "Jujutsu Kaiser",
+      "name": "Jujutsu Kaisen",
       "wallpaperIds": ["1", "2", "3", "11", "12"],
       "order": 1
+    },
+    {
+      "id": "4",
+      "name": "New Anime Categories",
+      "order": 2
     },
     {
       "id": "2",
       "name": "Dragon Ball DBZ",
       "wallpaperIds": ["6", "7"],
-      "order": 2
-    },
-    {
-      "id": "4",
-      "name": "Demon Slayer",
-      "wallpaperIds": ["8", "9", "10"],
       "order": 3
-    },
-    {
-      "id": "5",
-      "name": "Jujutsu Kaisen",
-      "wallpaperIds": ["11", "12"],
-      "order": 4
     }
   ],
-  
+
   "wallpapers": [
     {
       "id": "1",
@@ -127,13 +113,13 @@
       "id": "11",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2F06d3805301fe1a16557c7778c69f1a54.jpg?alt=media&token=80ca9d0b-828f-43b4-be9f-c49950a1015c",
       "type": "image",
-      "categoryIds": ["1", "5"]
+      "categoryIds": ["1", "4"]
     },
     {
       "id": "12",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FHD-wallpaper-gojo-satoru-anime-cool-gojou-itadori-yuji-jujutsu-jujutsu-kaisen-kaisen-manga.jpg?alt=media&token=abfe9b94-a491-46fb-a568-d98db9d4e6e2",
       "type": "image",
-      "categoryIds": ["1", "5"]
+      "categoryIds": ["1", "4"]
     }
   ]
 }
