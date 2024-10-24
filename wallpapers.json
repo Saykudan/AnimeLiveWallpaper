@@ -33,7 +33,7 @@
 
   "bodyCategories": [
     {
-      "id": "1",
+      "id": "7",
       "name": "Jujutsu Kaisen",
       "wallpaperIds": ["10", "2", "18", "23", "15"],
       "order": 1
@@ -45,175 +45,175 @@
       "id": "1",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu1.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "2",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu2.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "3",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu3.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "4",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu4.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "5",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu5.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "6",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu6.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "7",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu7.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "8",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu8.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "9",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu9.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "10",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu10.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "11",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu11.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "12",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu12.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "13",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu13.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "14",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu14.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "15",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu15.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "16",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu16.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "17",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu17.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "18",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu18.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "19",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu19.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "20",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu20.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "21",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu21.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "22",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu22.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "23",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu23.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "24",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu24.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "25",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu25.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "26",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu26.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "27",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu27.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "28",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu28.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     },
     {
       "id": "29",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu29.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1"]
+      "categoryIds": ["7"]
     }
   ]
 }
