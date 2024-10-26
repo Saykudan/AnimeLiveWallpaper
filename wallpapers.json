@@ -39,10 +39,15 @@
       "order": 1
     },
     {
+      "id": "4",
+      "name": "New Anime Categories",
+      "order": 2
+    },
+    {
       "id": "5",
       "name": "One Piece",
       "wallpaperIds": ["43", "37", "31", "39", "36"],
-      "order": 1
+      "order": 3
     }
   ],
 
