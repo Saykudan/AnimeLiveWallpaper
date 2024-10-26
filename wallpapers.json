@@ -375,7 +375,7 @@
       "id": "46",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FOne-Piece%2Fonp18.mp4?alt=media&token=92b9d6d7-85b7-4958-b2e8-21f51faae55a",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["4"],
 	  "bodyCategoryIds": ["5"]
     },
 
@@ -385,21 +385,21 @@
       "id": "50",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FOne-Piece%2Fonp16.mp4?alt=media&token=92b9d6d7-85b7-4958-b2e8-21f51faae55a",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["4"],
 	  "bodyCategoryIds": ["4"]
     },
     {
       "id": "48",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FOne-Piece%2Fonp17.mp4?alt=media&token=92b9d6d7-85b7-4958-b2e8-21f51faae55a",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["4"],
 	  "bodyCategoryIds": ["4"]
     },
     {
       "id": "49",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FOne-Piece%2Fonp18.mp4?alt=media&token=92b9d6d7-85b7-4958-b2e8-21f51faae55a",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["4"],
 	  "bodyCategoryIds": ["4"]
     },
 
