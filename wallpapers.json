@@ -2,19 +2,28 @@
   "categories": [
     {
       "id": "1",
+      "name": "All Wallpapers",
+      "description": "Browse all available wallpapers",
+      "sectionGif": "https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif",
+      "order": 1,
+      "tag": "",
+      "tagColor": "#"
+    },  
+    {
+      "id": "2",
       "name": "Jujutsu Kaisen",
       "description": "Recently Added",
       "sectionGif": "https://giffiles.alphacoders.com/219/219539.gif",
-      "order": 1,
+      "order": 2,
       "tag": "New",
       "tagColor": "#FF5733"
     },
     {
-      "id": "2",
+      "id": "3",
       "name": "Dragon Ball DBZ",
       "description": "Get powerful DBZ wallpapers.",
       "sectionGif": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJmkJD-7STCuATggnk86J_DPQhV48ANQIDkJPMdSSuF5RQaR7lAEv25JQqJIFl45euVw&usqp=CAU",
-      "order": 2,
+      "order": 3,
       "tag": "Hot",
       "tagColor": "#FFC300"
     }
@@ -56,70 +65,70 @@
       "id": "1",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu1.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "2",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu2.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "3",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu3.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "4",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu4.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "5",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu5.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "6",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu6.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "7",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu7.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "8",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu8.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "9",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu9.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "10",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu10.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+      "categoryIds": ["1","7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
