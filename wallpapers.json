@@ -411,7 +411,13 @@
       "categoryIds": ["4"],
 	  "bodyCategoryIds": ["4"]
     },
-
+    {
+      "id": "51",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu30.png?alt=media&token=6aa3f71a-745e-4eb3-944b-e5246e0e2ec7",
+      "type": "image",
+      "categoryIds": ["4"],
+	  "bodyCategoryIds": ["4"]
+    },
 
 
 
