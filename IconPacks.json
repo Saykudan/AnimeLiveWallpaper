@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "jjk",
+      "name": "Jujutsu Kaisen",
+      "description": "Icons inspired by Jujutsu Kaisen anime series",
+      "folderPath": "APPICONS/JUJUTSUKAISEN",
+      "previewIcons": [
+        {
+          "id": "jjk-1",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        },
+        {
+          "id": "jjk-2",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        },
+        {
+          "id": "jjk-3",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        },
+        {
+          "id": "jjk-4",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        },
+        {
+          "id": "jjk-5",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        },
+        {
+          "id": "jjk-6",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        },
+        {
+          "id": "jjk-7",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        },
+        {
+          "id": "jjk-8",
+          "iconURL": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/APPICONS%2FJUJUTSUKAISEN%2FAmazon.png?alt=media&token=31a7996e-d8fc-4b3a-8847-5da61b6458fa"
+        }
+      ]
+    }
+  ]
+}
