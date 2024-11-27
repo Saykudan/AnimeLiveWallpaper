@@ -15,18 +15,32 @@
     {
       "id": "2",
       "name": "Nature Wallpapers",
-      "description": "Top picks this week",
+      "description": "Relax with stunning nature scenes, updated weekly.",
       "sectionGif": "https://64.media.tumblr.com/749d7fb2433992157f4f1a44cd160dc1/tumblr_nvd9lnYTHN1s8fbpgo1_540.gif",
       "tag": "Featured",
       "tagColor": "#8E44AD"
+    },
+    {
+      "id": "8",
+      "name": "Pixel Wallpapers",
+      "description": "Retro pixel art to spark nostalgia.",
+      "sectionGif": "https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif",
+      "tag": "Retro Picks",
+      "tagColor": "#E67E22"
     }
   ],
 
   "bodyCategories": [
-      {	
+     {	
       "id": "3",
       "name": "Anime Eyes",
-      "wallpaperIds": ["10", "2", "18", "23", "15"],
+      "wallpaperIds": ["66", "67", "60", "63", "60"],
+      "order": 1
+    },
+    {
+      "id": "6",
+      "name": "Anime Pixel",
+      "wallpaperIds": ["66", "67", "60", "63", "60"],
       "order": 1
     },
     {	
@@ -466,7 +480,7 @@
     {
       "id": "59",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature8.mp4?alt=media&token=7dfcb254-8144-4a42-bee0-725bf109f508",
-      "type": "image",
+      "type": "video",
       "categoryIds": ["1","2"],
 	  "bodyCategoryIds": ["2"]
     },
@@ -494,7 +508,7 @@
     {
       "id": "63",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FEyes%2Feyes4.mp4?alt=media&token=19a22ba1-be8a-4a5c-a2da-10d0a2cebff8",
-      "type": "image",
+      "type": "video",
       "categoryIds": ["1","3"],
 	  "bodyCategoryIds": ["3"]
     },
@@ -522,7 +536,7 @@
     {
       "id": "67",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FEyes%2Feyes8.mp4?alt=media&token=19a22ba1-be8a-4a5c-a2da-10d0a2cebff8",
-      "type": "image",
+      "type": "video",
       "categoryIds": ["1","3"],
 	  "bodyCategoryIds": ["3"]
     },
@@ -546,6 +560,43 @@
       "type": "video",
       "categoryIds": ["1","3"],
 	  "bodyCategoryIds": ["3"]
+    },
+    
+    
+     {
+      "id": "71",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fpixel%2Fpixel1.mp4?alt=media&token=f29c6a11-b28f-4b65-9cd2-1f393657815a",
+      "type": "video",
+      "categoryIds": ["1","8"],
+	  "bodyCategoryIds": ["8"]
+    },
+    {
+      "id": "72",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fpixel%2Fpixel2.mp4?alt=media&token=f29c6a11-b28f-4b65-9cd2-1f393657815a",
+      "type": "video",
+      "categoryIds": ["1","8"],
+	  "bodyCategoryIds": ["8"]
+    },
+    {
+      "id": "73",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fpixel%2Fpixel3.mp4?alt=media&token=f29c6a11-b28f-4b65-9cd2-1f393657815a",
+      "type": "video",
+      "categoryIds": ["1","8"],
+	  "bodyCategoryIds": ["8"]
+    },
+    {
+      "id": "74",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fpixel%2Fpixel4.mp4?alt=media&token=f29c6a11-b28f-4b65-9cd2-1f393657815a",
+      "type": "video",
+      "categoryIds": ["1","8"],
+	  "bodyCategoryIds": ["8"]
+    },
+    {
+      "id": "75",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fpixel%2Fpixel5.mp4?alt=media&token=f29c6a11-b28f-4b65-9cd2-1f393657815a",
+      "type": "video",
+      "categoryIds": ["1","8"],
+	  "bodyCategoryIds": ["8"]
     }
 
 
