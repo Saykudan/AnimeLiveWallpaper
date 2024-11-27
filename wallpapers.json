@@ -8,40 +8,22 @@
       "order": 1,
       "tag": "",
       "tagColor": "#"
-    },  
-    {
-      "id": "2",
-      "name": "Jujutsu Kaisen",
-      "description": "Recently Added",
-      "sectionGif": "https://giffiles.alphacoders.com/219/219539.gif",
-      "order": 2,
-      "tag": "New",
-      "tagColor": "#FF5733"
-    },
-    {
-      "id": "3",
-      "name": "Dragon Ball DBZ",
-      "description": "Get powerful DBZ wallpapers.",
-      "sectionGif": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJmkJD-7STCuATggnk86J_DPQhV48ANQIDkJPMdSSuF5RQaR7lAEv25JQqJIFl45euVw&usqp=CAU",
-      "order": 3,
-      "tag": "Hot",
-      "tagColor": "#FFC300"
     }
   ],
 
   "newAnimeCategories": [
     {
-      "id": "4",
-      "name": "Demon Slayer",
+      "id": "2",
+      "name": "Nature Wallpapers",
       "description": "Top picks this week",
-      "sectionGif": "https://i.pinimg.com/originals/78/c9/ac/78c9acd081fbae3684d7ece42cbcd15f.gif",
+      "sectionGif": "https://wifflegif.com/gifs/616680-free-starting-days-anime-scenery-gif",
       "tag": "Featured",
       "tagColor": "#8E44AD"
     }
   ],
 
   "bodyCategories": [
-    {
+    {	
       "id": "7",
       "name": "Jujutsu Kaisen",
       "wallpaperIds": ["10", "2", "18", "23", "15"],
@@ -387,7 +369,13 @@
       "categoryIds": ["4"],
 	  "bodyCategoryIds": ["5"]
     },
-
+    {
+      "id": "47",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FOne-Piece%2Fonp19.mp4?alt=media&token=92b9d6d7-85b7-4958-b2e8-21f51faae55a",
+      "type": "video",
+      "categoryIds": ["7"],
+	  "bodyCategoryIds": ["5"]
+    },
 
 
     {
@@ -420,15 +408,65 @@
     },
 
 
-
-
-	  
     {
-      "id": "47",
-      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FOne-Piece%2Fonp19.mp4?alt=media&token=92b9d6d7-85b7-4958-b2e8-21f51faae55a",
+      "id": "52",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature1.mp4?alt=media&token=135d7931-90a7-425e-8b03-4d7bb517d4bd",
       "type": "video",
-      "categoryIds": ["7"],
-	  "bodyCategoryIds": ["5"]
+      "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
+    },
+    {
+      "id": "53",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature2.mp4?alt=media&token=38b7c175-01af-4d04-8be8-2dabaaf83d4d",
+      "type": "video",
+      "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
+    },
+    {
+      "id": "54",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature3.mp4?alt=media&token=7dfcb254-8144-4a42-bee0-725bf109f508",
+      "type": "video",
+      "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
+    },
+    {
+      "id": "55",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature4.mp4?alt=media&token=7dfcb254-8144-4a42-bee0-725bf109f508",
+      "type": "image",
+      "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
+    },
+        {
+      "id": "56",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature5.mp4?alt=media&token=135d7931-90a7-425e-8b03-4d7bb517d4bd",
+      "type": "video",
+       "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
+    },
+    {
+      "id": "57",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature6.mp4?alt=media&token=38b7c175-01af-4d04-8be8-2dabaaf83d4d",
+      "type": "video",
+      "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
+    },
+    {
+      "id": "58",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature7.mp4?alt=media&token=7dfcb254-8144-4a42-bee0-725bf109f508",
+      "type": "video",
+      "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
+    },
+    {
+      "id": "59",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FNature%2Fnature8.mp4?alt=media&token=7dfcb254-8144-4a42-bee0-725bf109f508",
+      "type": "image",
+      "categoryIds": ["1","2"],
+	  "bodyCategoryIds": ["2"]
     }
+
+
+
+	 
   ]
 }
