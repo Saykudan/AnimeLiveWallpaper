@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "🎉 Anime Sekai Live Wallpaper is Launched! 🌟",
+        "description": "We're thrilled to announce the launch of Anime Sekai Live Wallpaper! Get ready to transform your home screen with stunning anime-inspired widgets and wallpapers.",
+        "paragraphs": [
+            {
+                "subTitle": "Exciting Features Available Now:",
+                "content": "1. Customize your widgets with anime-inspired backgrounds, fonts, and colors."
+            },
+            {
+                "subTitle": "",
+                "content": "2. Choose from a wide range of clock styles and widget sizes."
+            },
+            {
+                "subTitle": "",
+                "content": "3. Create unique widgets and save them for easy reuse."
+            },
+            {
+                "subTitle": "Coming Soon:",
+                "content": "We're working on bringing more exciting features, including seasonal themes, community art integration, and more customization options!"
+            },
+            {
+                "subTitle": "Update Now:",
+                "content": "Make sure you have the latest version installed to enjoy these features. Check for updates in the App Store."
+            }
+        ],
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/ai-anime-generator.appspot.com/o/contestart%2FAnimeSekaiLaunch.png?alt=media&token=example-token-id",
+        "date": "2024-11-28",
+        "rateUsButtonVisibility": 1,
+        "winnerConfirmationButtonVisibility": 0
+    }
+]
