@@ -43,13 +43,13 @@
      {	
       "id": "3",
       "name": "Anime Eyes",
-      "wallpaperIds": ["66", "67", "61", "63", "60"],
+      "wallpaperIds": ["66", "67", "61", "63", "62"],
       "order": 1
     },
     {	
-      "id": "7",
-      "name": "Jujutsu Kaisen",
-      "wallpaperIds": ["10", "2", "18", "23", "15"],
+      "id": "10",
+      "name": "Summer",
+      "wallpaperIds": ["83", "84", "85", "86", "87"],
       "order": 2
     },
     {
@@ -57,11 +57,17 @@
       "name": "New Anime Categories",
       "order": 3
     },
-    {
-      "id": "5",
-      "name": "One Piece",
-      "wallpaperIds": ["43", "37", "31", "39", "36"],
+    {	
+      "id": "11",
+      "name": "Ai Generated",
+      "wallpaperIds": ["93", "94", "95", "96", "97"],
       "order": 4
+    },
+    {	
+      "id": "12",
+      "name": "Flowers",
+      "wallpaperIds": ["99", "100", "101", "102", "103"],
+      "order": 5
     }
   ],
 
@@ -70,77 +76,77 @@
       "id": "1",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu1.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "2",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu2.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "3",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu3.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "4",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu4.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "5",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu5.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "6",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu6.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "7",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu7.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "8",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu8.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "9",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu9.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "10",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu10.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["1","7"],
+      "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
       "id": "11",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FJujutsu-Kaisen%2Fjujutsu11.mp4?alt=media&token=6717befe-c45b-4a48-91f6-5b4983d85380",
       "type": "video",
-      "categoryIds": ["7"],
+       "categoryIds": ["7"],
 	  "bodyCategoryIds": ["7"]
     },
     {
@@ -606,7 +612,7 @@
     
     
     
-         {
+      {
       "id": "76",
       "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FCity%2Fcity1.mp4?alt=media&token=ad12a193-667f-41ec-8a0e-817fd3b31819",
       "type": "video",
@@ -647,7 +653,206 @@
       "type": "video",
       "categoryIds": ["1","9"],
 	  "bodyCategoryIds": ["9"]
+    },
+    
+    
+    
+    {
+      "id": "82",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer1.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "83",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer2.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "84",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer3.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "85",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer4.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "86",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer5.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "87",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer6.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "88",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer7.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "89",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer8.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    {
+      "id": "90",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer9.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    
+    {
+      "id": "91",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2FSummer%2Fsummer10.jpg?alt=media&token=d5169bde-5096-4288-b250-44b25b1deffd",
+      "type": "image",
+      "categoryIds": ["1","10"],
+	  "bodyCategoryIds": ["10"]
+    },
+    
+    
+    
+    
+    {
+      "id": "92",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Faigenerated%2Fai2.jpg?alt=media&token=bfa858bc-893b-490b-b86d-211b8effb64c",
+      "type": "image",
+      "categoryIds": ["1","11"],
+	  "bodyCategoryIds": ["11"]
+    },
+    {
+      "id": "93",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Faigenerated%2Fai3.jpg?alt=media&token=bfa858bc-893b-490b-b86d-211b8effb64c",
+      "type": "image",
+      "categoryIds": ["1","11"],
+	  "bodyCategoryIds": ["11"]
+    },
+    {
+      "id": "94",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Faigenerated%2Fai4.jpg?alt=media&token=bfa858bc-893b-490b-b86d-211b8effb64c",
+      "type": "image",
+      "categoryIds": ["1","11"],
+	  "bodyCategoryIds": ["11"]
+    },
+    {
+      "id": "95",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Faigenerated%2Fai5.jpg?alt=media&token=bfa858bc-893b-490b-b86d-211b8effb64c",
+      "type": "image",
+      "categoryIds": ["1","11"],
+	  "bodyCategoryIds": ["11"]
+    },
+    {
+      "id": "96",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Faigenerated%2Fai6.jpg?alt=media&token=bfa858bc-893b-490b-b86d-211b8effb64c",
+      "type": "image",
+      "categoryIds": ["1","11"],
+	  "bodyCategoryIds": ["11"]
+    },
+    {
+      "id": "97",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Faigenerated%2Fai7.jpg?alt=media&token=bfa858bc-893b-490b-b86d-211b8effb64c",
+      "type": "image",
+      "categoryIds": ["1","11"],
+	  "bodyCategoryIds": ["11"]
+    },
+    
+    
+    
+    {
+      "id": "98",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower1.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+    {
+      "id": "99",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower2.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+    {
+      "id": "100",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower3.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+    {
+      "id": "101",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower4.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+        {
+      "id": "102",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower5.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+    {
+      "id": "103",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower6.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+    {
+      "id": "104",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower7.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },   
+    {
+      "id": "105",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower8.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+    {
+      "id": "106",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower9.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
+    },
+    {
+      "id": "109",
+      "url": "https://firebasestorage.googleapis.com/v0/b/animelivewallpaper-52ed4.appspot.com/o/wallpapers%2Fflowers%2Fflower10.jpg?alt=media&token=a1ace1e1-bf4b-461d-89c7-98177f25f85a",
+      "type": "image",
+      "categoryIds": ["1","12"],
+	  "bodyCategoryIds": ["12"]
     }
+    
+    
+    
+
+    
+    
 
 	 
   ]
